@@ -12,3 +12,4 @@ learning some R, stats, and data analysis during the summer of 2026! this repo h
 ## june 2026
 - created first (second) github ... my first one was tied to my school email and i need to transfer those projects somehow
 - created first repository 
+- learned data types (integers, numeric, logical, character, data frame, matrix, etc.)
